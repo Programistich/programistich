@@ -17,7 +17,7 @@
 
 ![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![Swing](https://img.shields.io/badge/swing-00979D?style=for-the-badge&logo=java&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)<br>
+![OpenCV](https://img.shields.io/badge/opencv%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB")
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)

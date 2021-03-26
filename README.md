@@ -8,7 +8,7 @@
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%23009639.svg?&style=for-the-badge&logo=Android&logoColor=white%22)
 ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white%22)
-![Clion](https://img.shields.io/badge/CLion-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white%22)
+![Clion](https://img.shields.io/badge/CLion-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white%22)<br>
 ![Web Storm](https://img.shields.io/badge/Web%20Storm-%23E34F26.svg?&style=for-the-badge&logo=css3&logoColor=white%22)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white%22)
 ![DataGrip](https://img.shields.io/badge/datagrip-%23F00000.svg?&style=for-the-badge&logo=sqlite&logoColor=white)<br>

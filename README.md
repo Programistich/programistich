@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Programistich
 
 ## 🛠 My fancy badge area
+### Hard Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white") 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) 
@@ -35,3 +36,13 @@
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![VMWare](https://img.shields.io/badge/vmware%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) 
+
+### Sofr Skills
+![Communication](https://img.shields.io/badge/%F0%9F%A4%9DCommunication-E95420?style=for-the-badge&logo=&logoColor=white)<br>
+![TeamWork](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A6%E2%80%8D%F0%9F%91%A6%20%20Teamwork-0078D6?style=for-the-badge&logo=&logoColor=white)<br>
+![Problem solving](https://img.shields.io/badge/%F0%9F%A7%90%20Problem%20solving%20-%235835CC.svg?&style=for-the-badge&logo=&logoColor=white)<br>
+![Organization](https://img.shields.io/badge/%F0%9F%91%8A%20Organization-3DDC84?style=for-the-badge&logo=&logoColor=black)<br>
+![Time management](https://img.shields.io/badge/%F0%9F%95%94Time%20management-F6C915?style=for-the-badge&logo=&logoColor=black)<br>
+![Creativity](https://img.shields.io/badge/%F0%9F%A4%AFCreativity-F96854?style=for-the-badge&logo=&logoColor=black)<br>
+![Delegation](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BC%20%20%20delegation-%232671E5.svg?&style=for-the-badge&logo=%20actions&logoColor=white)
+
